@@ -29,29 +29,10 @@ Currently on <strong>Rio de Janeiro</strong> is {{Weather.Temperature}}°C, {{We
         </li>
     </ul>
 </div>
-<div>
-    <h4><code>Find me</code></h4>
-    <ul>
-        <li>
-            <a href="https://instagram.com/richaardev">
-                <img alt="Instagram" align="center" width="30"
-                    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">
-            </a>
-        </li>
-        <li>
-            <a href="https://instagram.com/richaardev">
-                <img alt="Linkedin" align="center" width="30"
-                    src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/linkedin.svg">
-            </a>
-        </li>
-        <li>
-            <a href="https://twitter.com/richaardev">
-                <img alt="Twitter" align="center" width="30"
-                    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">
-            </a>
-        </li>
-    </ul>
-</div>
+
+#### `Find me`
+{{SocialMedias}}
+
 <br>
 <hr>
 <div align="center">
@@ -60,6 +41,6 @@ Currently on <strong>Rio de Janeiro</strong> is {{Weather.Temperature}}°C, {{We
     Last Update: {{RefreshDate}}
 </div>
 
-![Test](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
+![Wave](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
 
 <!-- Organization is important!! -->
