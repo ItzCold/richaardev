@@ -20,8 +20,9 @@ type WeatherData struct {
 	WindDisplay string
 }
 type Data struct {
-	Greeting    string
-	RefreshDate string
+	Greeting     string
+	RefreshDate  string
+	SocialMedias string
 
 	Weather WeatherData
 }
@@ -34,6 +35,7 @@ func main() {
 	ltime = time.Now().In(loc)
 
 	data.RefreshDate = ltime.Format("01/02/2006 - 03:04PM") + " GMT-3"
+	generateSocialMedias(&data)
 	setGreeting(&data)
 	setWeather(&data)
 
@@ -42,9 +44,11 @@ func main() {
 }
 
 func readFileAndGenerateReadme(data *Data) {
+
 	tmpl, _ := mustache.ParseFile("README.template.md")
 	var buf bytes.Buffer
 	tmpl.FRender(&buf, *data)
+
 	err := os.WriteFile("README.md", buf.Bytes(), 0644)
 	check(err)
 }
@@ -68,8 +72,8 @@ func setWeather(data *Data) {
 				Temperature string `xml:"temperature,attr"`
 				WindDisplay string `xml:"winddisplay,attr"`
 			} `xml:"current"`
-			Location            string `xml:"weatherlocationname,attr"`
-			DegreeType          string `xml:"degreetype,attr"`
+			Location   string `xml:"weatherlocationname,attr"`
+			DegreeType string `xml:"degreetype,attr"`
 		} `xml:"weather"`
 	}
 	xml.Unmarshal(rdata, &result)
@@ -90,6 +94,26 @@ func setGreeting(data *Data) {
 		greeting = greetings[1]
 	}
 	data.Greeting = greeting
+}
+
+func generateSocialMedias(data *Data) {
+
+	var result string
+
+	socialMedias := map[string]string{
+		"twitter":   "https://twitter.com/richaardev",
+		"instagram": "https://instagram.com/richaardev",
+		"linkedin":  "https://www.linkedin.com/in/richaardev/",
+		"discord":   "https://discord.gg/h2R5zfQW3B",
+		"github":    "https://github.com/richaardev",
+	}
+	for key, value := range socialMedias {
+		result +=
+			"[![" + key + "](https://skillicons.dev/icons?i="+key+")]("+value+")\n"
+
+	}
+
+	data.SocialMedias = result
 }
 
 func check(e error) {

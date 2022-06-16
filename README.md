@@ -1,4 +1,4 @@
-<h2>🌃 Good evening! 🇧🇷</h2>
+<h2>☀️ Good morning! 🇧🇷</h2>
 
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
@@ -29,35 +29,21 @@ Currently on <strong>Rio de Janeiro</strong> is 14°C, Clear, with winds 9 km/h 
         </li>
     </ul>
 </div>
-<div>
-    <h4><code>Find me</code></h4>
-    <ul>
-        <li>
-            <a href="https://instagram.com/richaardev">
-                <img alt="Instagram" align="center" width="30"
-                    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">
-            </a>
-        </li>
-        <li>
-            <a href="https://instagram.com/richaardev">
-                <img alt="Linkedin" align="center" width="30"
-                    src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/linkedin.svg">
-            </a>
-        </li>
-        <li>
-            <a href="https://twitter.com/richaardev">
-                <img alt="Twitter" align="center" width="30"
-                    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">
-            </a>
-        </li>
-    </ul>
-</div>
+
+#### `Find me`
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/richaardev)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/richaardev)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/richaardev/)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/h2R5zfQW3B)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/richaardev)
+
+
 <br>
 <hr>
 <div align="center">
     This README file is generated <strong>every 1 hour</strong>
     <br>
-    Last Update: 06/15/2022 - 10:58PM GMT-3
+    Last Update: 06/16/2022 - 12:00AM GMT-3
 </div>
 
 ![Test](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
