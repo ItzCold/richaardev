@@ -43,9 +43,9 @@ Currently on <strong>Rio de Janeiro</strong> is 14°C, Clear, with winds 9 km/h 
 <div align="center">
     This README file is generated <strong>every 1 hour</strong>
     <br>
-    Last Update: 06/16/2022 - 12:00AM GMT-3
+    Last Update: 06/16/2022 - 12:05AM GMT-3
 </div>
 
-![Test](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
+![Wave](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
 
 <!-- Organization is important!! -->
