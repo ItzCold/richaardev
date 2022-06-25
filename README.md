@@ -1,9 +1,9 @@
-<h2>🌇 Good afternoon! 🇧🇷</h2>
+<h2>🌃 Good evening! 🇧🇷</h2>
 
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
-Currently on <strong>Rio de Janeiro</strong> is 21°C, Sunny, with winds 18 km/h Southeast.
+Currently on <strong>Rio de Janeiro</strong> is 20°C, Mostly Cloudy, with winds 4 km/h Southeast.
 
 <h3><code>richaardev</code></h3>
 
@@ -43,7 +43,7 @@ Currently on <strong>Rio de Janeiro</strong> is 21°C, Sunny, with winds 18 km/h
 <div align="center">
     This README file is generated <strong>every 1 hour</strong>
     <br>
-    Last Update: 06/25/2022 - 06:14PM GMT-3
+    Last Update: 06/25/2022 - 07:16PM GMT-3
 </div>
 
 ![Wave](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
