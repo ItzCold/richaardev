@@ -1,4 +1,4 @@
-<h2>☀️ Good morning! 🇧🇷</h2>
+<h2>🌇 Good afternoon! 🇧🇷</h2>
 
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
@@ -31,11 +31,11 @@ Currently on <strong>Rio de Janeiro</strong> is 21°C, Sunny, with winds 18 km/h
 </div>
 
 #### `Find me`
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/richaardev)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/richaardev)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/richaardev)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/richaardev/)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/h2R5zfQW3B)
-[![github](https://skillicons.dev/icons?i=github)](https://github.com/richaardev)
 
 
 <br>
@@ -43,7 +43,7 @@ Currently on <strong>Rio de Janeiro</strong> is 21°C, Sunny, with winds 18 km/h
 <div align="center">
     This README file is generated <strong>every 1 hour</strong>
     <br>
-    Last Update: 07/03/2022 - 12:16PM GMT-3
+    Last Update: 07/03/2022 - 01:22PM GMT-3
 </div>
 
 ![Wave](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
