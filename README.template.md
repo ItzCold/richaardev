@@ -33,14 +33,4 @@ Currently on <strong>Rio de Janeiro</strong> is {{Weather.Temperature}}°C, {{We
 #### `Find me`
 {{SocialMedias}}
 
-<br>
-<hr>
-<div align="center">
-    This README file is generated <strong>every 1 hour</strong>
-    <br>
-    Last Update: {{RefreshDate}}
-</div>
-
-![Wave](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
-
 <!-- Organization is important!! -->
