@@ -3,7 +3,7 @@
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
-Currently on <strong>Rio de Janeiro</strong> is 20°C, Mostly Cloudy, with winds 4 km/h Southeast.
+Currently on <strong>Rio de Janeiro</strong> is 21°C, Sunny, with winds 18 km/h Southeast.
 
 <h3><code>richaardev</code></h3>
 
@@ -31,11 +31,11 @@ Currently on <strong>Rio de Janeiro</strong> is 20°C, Mostly Cloudy, with winds
 </div>
 
 #### `Find me`
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/richaardev)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/richaardev)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/richaardev/)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/h2R5zfQW3B)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/richaardev)
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/richaardev)
 
 
 <!-- Organization is important!! -->
