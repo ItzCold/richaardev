@@ -3,7 +3,7 @@
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
-Currently on <strong>Rio de Janeiro</strong> is 28°C, Sunny, with winds 24 km/h Northwest.
+Currently on <strong>Rio de Janeiro</strong> is 20°C, Mostly Cloudy, with winds 4 km/h Southeast.
 
 <h3><code>richaardev</code></h3>
 
