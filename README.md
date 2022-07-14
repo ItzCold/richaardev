@@ -1,4 +1,4 @@
-<h2>🌃 Good evening! 🇧🇷</h2>
+<h2>☀️ Good morning! 🇧🇷</h2>
 
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
