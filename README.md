@@ -31,11 +31,11 @@ Currently on <strong>Rio de Janeiro</strong> is 21°C, Sunny, with winds 18 km/h
 </div>
 
 #### `Find me`
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/richaardev)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/richaardev)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/richaardev/)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/h2R5zfQW3B)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/richaardev)
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/richaardev)
 
 
 <!-- Organization is important!! -->
