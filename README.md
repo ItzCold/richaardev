@@ -1,18 +1,22 @@
-<h2>🌃 Good evening! 🇧🇷</h2>
+<h2>👋 Howdly!</h2>
 
+<div>
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
-
-Currently on <strong>Rio de Janeiro</strong> is 20°C, Mostly Cloudy, with winds 4 km/h Southeast.
+</div>
+<div>
 
 <h3><code>richaardev</code></h3>
 
 -   👨‍💻 17 years old developer!
--   📚 Always trying to improve knowledge.
--   ✈ Aviation lover!
+-   😄 Pronouns: he/him
+-   🚶‍♂️  Currently trying to learn everything!
+-   📚 Learn more about my projects at <a href="https://richaardev.vercel.app/" target="_blank">my website</a>
+-   ⚡ Fun fact: i love stranger things and passionate about aviation!
 
+</div>
 <div>
-    <h4><code>Technologies</code></h4>
+    <h3><code>Technologies</code></h3>
     <ul>
         <li>
             I love <a href="javascript.com">JavaScript</a>, <a href="kotlinlang.org">Kotlin</a> and <a href="go.dev">Golang</a>
@@ -30,7 +34,7 @@ Currently on <strong>Rio de Janeiro</strong> is 20°C, Mostly Cloudy, with winds
     </ul>
 </div>
 
-#### `Find me`
+### `Find me`
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/richaardev/)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/h2R5zfQW3B)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/richaardev)
