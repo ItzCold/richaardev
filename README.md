@@ -8,10 +8,10 @@
 
 <h3><code>richaardev</code></h3>
 
--   👨‍💻 17 years old developer!
+-   👨‍💻 17 years old developer
 -   😄 Pronouns: he/him
 -   🚶‍♂️  Currently trying to learn everything!
--   📚 Learn more about my projects at <a href="https://richaardev.vercel.app/" target="_blank">my website</a>
+-   📚 Learn more about my projects at <a href="https://richaardev.vercel.app/" target="_blank">my website!</a>
 -   ⚡ Fun fact: i love stranger things and passionate about aviation!
 
 </div>
@@ -40,6 +40,3 @@
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/h2R5zfQW3B)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/richaardev)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/richaardev)
-
-
-<!-- Organization is important!! -->
