@@ -8,8 +8,8 @@
 
 <h3><code>richaardev</code></h3>
 
--   👨‍💻 17 years old developer
--   😄 Pronouns: he/him
+-   👨‍💻 17 years old developer.
+-   😄 Pronouns: he/him.
 -   🚶‍♂️  Currently trying to learn everything!
 -   📚 Learn more about my projects at <a href="https://richaardev.vercel.app/" target="_blank">my website!</a>
 -   ⚡ Fun fact: i love stranger things and passionate about aviation!
